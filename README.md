@@ -1,3 +1,5 @@
-# clones
+# This repo contains website clones
 
-This repo contains websites clones
+* [Landing page](./p1xt-tier2-landingpage)
+
+
